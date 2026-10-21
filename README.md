@@ -1,16 +1,13 @@
 # Tropical Cyclone Intensity Chaotic Dynamics
 Chanh Kieu, Indiana University Bloomington
 
-This repository contains different attempts for analystical models for tropical cyclone (TC) intensity chaotic dynamics, using the TC scale framework 
-proposed by Kieu (2015), Kieu and Wang (2017a,b). By extending the simple low-order model for TC scale dynamiics and include new forcing terms, we 
-showed that TC dynamics does contain a chaotic attractor at the maximum potential intensity limit, thus explaining for the difficulty of operational
-model in forecasting TC intensity when a TC reaches Category 3 and above. 
+This repository contains several attempts to examine analytical models that are developed to investigate the chaotic dynamics of tropical cyclone (TC) intensity within the TC-scale framework proposed by Kieu (2015) and Kieu and Wang (2017a, b). By extending a simple low-order model of TC-scale dynamics and incorporating additional forcing terms, we demonstrate that TC dynamics can exhibit a chaotic attractor near the maximum potential intensity (PI) limit. This finding provides a potential dynamical explanation for the challenges operational forecasting models face in predicting TC intensity, particularly when storms reach Category 3 intensity or higher.
 
-The repo contains both analytical models, visualization of the attractor, as well as real-time verificaton and intepretation of our results for real TC
-cases. Details of the methodlogy, data description, as well as scripts are given in the docs directory. 
+The repository includes analytical models, visualizations of the chaotic attractor, and real-time verification and interpretation of our findings using real-world TC cases. Detailed descriptions of the methodology, data, and implementation scripts are provided in the docs directory.
 
-References
+### References
 - Fan, W-T., C Kieu, D. Sakellariou, and M. Patra, 2021: Hitting Time of Rapid Intensification Onset in Hurricane-like Vortices. Physics of Fluid. doi:https://doi.org/10.1063/5.0062119.
+- Kieu, C., 2024: Searching for Chaos in Tropical Cyclone Intensity: A Machine Learning Approach. Tellus A. 76(1), 166-176.
 - Kieu, C., R. Rotunno, and C. Wang, 2020: "Frictionally Induced Feedback in a Reduced Dynamical Model of Tropical Cyclone Intensification. Journal of Atmospheric Sciences. doi:https://doi.org/10.1175/JAS-D-20-0092.1
 - Kieu, C. Q., 2015: Hurricane Maximum Potential Intensity Equilibrium. Q. J. Royal Meteor. Soc. 
 - Kieu, C. Q., and Z. Moon, 2016: Hurricane Intensity Predictability. Bulletin of the American Meteorological Society
